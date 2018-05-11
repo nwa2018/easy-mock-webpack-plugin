@@ -1,0 +1,27 @@
+{
+  "name": "easy-mock-webpack-plugin",
+  "version": "1.0.0",
+  "description": "easy mock data with easy config, support customize middleware, support as webpack plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwa2018/easy-mock-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "mock"
+  ],
+  "author": "fujuewen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nwa2018/easy-mock-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/nwa2018/easy-mock-webpack-plugin#readme",
+  "dependencies": {
+    "easy-config-mock": "^1.0.0"
+  }
+}
