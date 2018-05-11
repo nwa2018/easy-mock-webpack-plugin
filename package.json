@@ -1,6 +1,6 @@
 {
   "name": "easy-mock-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "easy mock data with easy config, support customize middleware, support as webpack plugin",
   "main": "index.js",
   "scripts": {
